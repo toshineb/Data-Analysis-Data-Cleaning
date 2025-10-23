@@ -1,5 +1,5 @@
 This repository showcases a collection of end-to-end **data cleaning, transformation, and exploratory data analysis projects** completed using **SQL, Python (Pandas, Seaborn, Matplotlib)**, and **Excel**.
-The goal is to demonstrate practical data analytics skills — from **raw data wrangling** to **insight generation** — across multiple real-world datasets, including **movie industry profitability**, **COVID-19 statistics**, and **housing records**.
+The goal is to demonstrate practical data analytics skills from **raw data wrangling** to **insight generation** across multiple real-world datasets, including **movie industry profitability**, **COVID-19 statistics**, and **housing records**.
 
 ---
 
