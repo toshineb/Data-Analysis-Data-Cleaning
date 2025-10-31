@@ -3,9 +3,9 @@ The goal is to demonstrate practical data analytics skills from **raw data wrang
 
 ---
 
-## 🧹 SQL Projects
+## SQL Projects
 
-### 🧩 **1. Data Cleaning – Nashville Housing Dataset**
+### **1. Data Cleaning – Nashville Housing Dataset**
 
 **File:** `SQL - Data Cleaning.sql`
 **Key Focus:**
@@ -21,7 +21,7 @@ The goal is to demonstrate practical data analytics skills from **raw data wrang
 
 ---
 
-### 🌍 **2. Data Exploration – Global COVID-19 Dataset**
+### **2. Data Exploration – Global COVID-19 Dataset**
 
 **File:** `SQL - Data Exploration.sql`
 **Key Focus:**
@@ -36,9 +36,9 @@ The goal is to demonstrate practical data analytics skills from **raw data wrang
 
 ---
 
-## 🐍 Python Project
+## Python Project
 
-### 🎥 **3. Movie Industry Exploratory Data Analysis (EDA)**
+### **3. Movie Industry Exploratory Data Analysis (EDA)**
 
 **Files:**
 
@@ -64,9 +64,9 @@ Investigate the film industry to understand what drives profitability and develo
 
 ---
 
-## 📊 Excel Models
+## Excel Models
 
-### 📈 **4. Excel Dashboards and Data Models**
+### **4. Excel Dashboards and Data Models**
 
 **Files:**
 
@@ -82,7 +82,7 @@ Investigate the film industry to understand what drives profitability and develo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── Python - Movie Industry EDA Project.ipynb
@@ -94,4 +94,3 @@ Investigate the film industry to understand what drives profitability and develo
 ├── Excel - Scenario Manager, Solver (Data Modeling).xlsx
 └── README.md
 ```
-Would you like me to generate a **GitHub-style cover image** (dark theme header banner showing Python, SQL, and Excel icons with “Data Analysis & Cleaning Portfolio” text) for this README? It would make your repo visually stand out.
